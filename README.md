@@ -3,5 +3,5 @@ A mod for hollow knight that Gives you more starting health/Mask shards. For peo
 
 
 1) Download the release dll
-2) Download the hollow knight mod manager 2 https://discord.gg/UPUBWmh
+2) Download the hollow knight mod manager 2 https://radiance.host/mods/ModInstaller.exe
 3) Drag mod dll into mods folder in hollow knight directory
